@@ -1,0 +1,10 @@
+{
+  "params": {
+    "days": 5,
+    "frequency": 10
+  },
+  "cities": [
+    "Moscow",
+    "Saint_Petersburg"
+  ]
+}
